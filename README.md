@@ -11,9 +11,9 @@ This project is currently a work in progress. Stay tuned for updates!
 2 - Add a menu location to the new chip based on a real chip that exists in avrdude.conf
 Normally located in "ArduinoFolder"\hardware\tools\avr\etc
 
-3 - Use the same values of checksum d
+3 - Use the same checksum  and fuses config from  avrdude.conf 
 
-4 - Use the same bootloader as the atmega168
+4 - Use the same bootloader as the atmega328p
 
 
 
